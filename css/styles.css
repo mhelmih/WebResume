@@ -1,0 +1,246 @@
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+}
+
+h3 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 36px;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #464646;
+    margin: 0;
+}
+
+.top-container {
+    height: 766px;
+}
+
+.profile-img {
+    position: absolute;
+    left: 80px;
+    top: 12px
+}
+
+.web-heading {
+    position: absolute;
+    width: 610px;
+    height: 403px;
+    left: 674px;
+    top: 170px;
+}
+
+.top-heading {
+    margin: 0;
+    
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 78px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+.job-title {
+    margin: 10px 0 40px 0;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 32px;
+    line-height: 37px;
+
+    color: #464646;
+}
+
+.short-desc {
+    margin-bottom: 28px;
+    line-height: 28px;
+
+    color: #464646;
+}
+
+.BUTTON_ZCU {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+
+    display: inline-block;
+    padding: 14px 36px;
+    color: #FFFFFF;
+    background-color: #19896D;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+ }
+
+.BUTTON_ZCU:hover {
+    background-color: #4DBEA2;
+}
+
+.skills {
+    background-color: #F3F3F3;
+    height: 600px;
+}
+
+.skill-heading {
+    padding-top: 34px;
+    margin: 0;
+    text-align: center;
+}
+
+.skill-row1 {
+    display: inline-block;
+    width: 1128px;
+    height: 234px;
+    position: relative;
+    left: 156px;
+}
+
+.skill-row2 {
+    display: inline-block;
+    width: 1128px;
+    height: 234px;
+    position: relative;
+    left: 156px;
+    top: 11px;
+}
+
+.skill-desc {
+    text-align: left;
+}
+
+.python {
+    float: left;
+    margin-right: 54px;
+}
+
+.clang {
+    float: left;
+    margin-right: 68px;
+    margin-left: 16px;
+}
+
+.personal-detail {
+    height: 621px;
+}
+
+.h3-small {
+    font-size: 28px;
+    margin: 16px 0;
+}
+
+table {
+    margin: 70px 156px 0;
+}
+
+th {
+    text-align: left;
+}
+
+td {
+    vertical-align: text-top;
+}
+
+.s1 {
+    width: 538px;
+}
+
+.dsc {
+    width: 552px;
+}
+
+.year {
+    color: #767676;
+    margin-top: 8px;
+}
+
+.desc {
+    margin-top: 8px;
+    margin-bottom: 16px;
+}
+
+
+.contact-me {
+    height: 275px;
+}
+
+.contact-me-text {
+    position: relative;
+    width: 1032px;
+    height: 59px;
+    left: 156px;
+    top: 108px;
+}
+
+.intrst-wrkng-w-me {
+    display: inline-block;
+    margin: 0;
+    margin-right: 100px;
+}
+
+.BUTTON_ZCU2 {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    display: inline-block;
+    position: relative;
+    bottom: 8px;
+
+    padding: 14px 36px;
+    color: #FFFFFF;
+    background-color: #19896D;
+    border-radius: 4px;
+    text-decoration: none;
+    cursor: pointer;
+    text-align: center;
+}
+
+.BUTTON_ZCU2:hover {
+    background-color: #4DBEA2;
+}
+
+.bottom-container {
+    text-align: center;
+    padding: 63px 0 0 0;
+    height: 230px;
+    background-color: #4DBEA2;
+}
+
+.footer-link {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-decoration: none;
+    cursor: pointer;
+    margin: 53px;
+}
+
+.copyright {
+    color: #FFFFFF;
+    position: relative;
+    top: 49px;
+    font-size: 20px;
+}
